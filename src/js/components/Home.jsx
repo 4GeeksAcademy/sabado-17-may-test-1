@@ -14,7 +14,7 @@ const Home = () => {
 				<img src={rigoImage} />
 			</p>
 			<a href="#" className="btn btn-success">
-				If you see this green button... bootstrap is working...
+				pull request de fork a fork
 			</a>
 			<p>
 				Made by{" "}
